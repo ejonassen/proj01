@@ -19,8 +19,9 @@
             <p>I am taking this course to learn more about the field and practice of web design,
             an area I've only recently started dabbling in. I'm interested to see if this is a field
             that I would like to pursue further.</p>
-            <p>I have previous experience with java, javascript/jQuery, html/css, and am
-            currently taking courses in C and XML as well.</p>
+            <p>I have some previous experience with Java, Javascript/jQuery, html/css, and am
+            currently taking courses in C and XML as well. I will be doing my work for this course
+            primarily on my desktop PC.</p>
         </div>
         <br/>
         <div class="head">Class Projects:</div>
