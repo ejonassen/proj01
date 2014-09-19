@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>Hello World</title>
+        <title>Portfolio</title>
         <meta charset='utf-8'>
         <link rel="stylesheet" href="portfolio.css">
     </head>
