@@ -27,17 +27,17 @@
         <div class="projects">
             <div class="entry">
                 <div class="projname">Project Two</div>
-                <div><span class = "links">Link</span> | <span class="links">Code(Github)</span></div>
+                <div><a class="links" href="http://www.google.com">Link</a> | <a class="links" href="http://www.google.com">Code(Github)</a></div>
             </div>
             <br/>
             <div class="entry">
                 <div class="projname">Project Three</div>
-                <div><span class = "links">Link</span> | <span class="links">Code(Github)</span></div>
+                <div><a class="links" href="http://www.google.com">Link</a> | <a class="links" href="http://www.google.com">Code(Github)</a></div>
             </div>
             <br/>
             <div class="entry">
                 <div class="projname">Project Four</div>
-                <div><span class = "links">Link</span> | <span class="links">Code(Github)</span></div>
+                <div><a class="links" href="http://www.google.com">Link</a> | <a class="links" href="http://www.google.com">Code(Github)</a></div>
             </div>
         </div>
     </body>

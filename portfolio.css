@@ -61,6 +61,8 @@ p{
     opacity: .7;
     cursor: pointer;
     font-weight: bold;
+    text-decoration: none;
+    color: black;
 }
 .links:hover{
     opacity: 1;
