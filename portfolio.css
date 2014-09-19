@@ -1,0 +1,66 @@
+body{
+    font-family: tahoma, sans-serif;
+    font-size: 20px;
+    background-color: gray;
+}
+p{
+    width: 450px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.wrapper{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.wrap2{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: darkgray;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+.name{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.pic{
+    margin: auto;
+    border: 1px solid black;
+    width: 300px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.entry{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: darkgray;
+    padding: 5px;
+}
+.projects{
+    margin: auto;
+    width: 500px;
+    padding: 5px;
+}
+.projname{
+    font-weight: bold;
+}
+.links{
+    font-size: 15px;
+    opacity: .7;
+    cursor: pointer;
+    font-weight: bold;
+}
+.links:hover{
+    opacity: 1;
+}
