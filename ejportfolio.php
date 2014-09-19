@@ -10,7 +10,6 @@
             <div class="name">Eric Jonassen | Dynamic Web Apps Fall 2014</div>
             <img class="pic" src="images/eric.jpg">
         </div>
-
         
         <div class="wrap2">
             <div class=head>About Me</div>
