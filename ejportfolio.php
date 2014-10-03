@@ -28,7 +28,7 @@
         <div class="projects">
             <div class="entry">
                 <div class="projname">Project Two</div>
-                <div><a class="links" href="http://www.google.com">Link</a> | <a class="links" href="http://www.google.com">Code(Github)</a></div>
+                <div><a class="links" href="http://ericwebapps.me/proj02.1/passwords.php">Link</a> | <a class="links" href="https://github.com/ejonassen/Proj02.1">Code(Github)</a></div>
             </div>
             <br/>
             <div class="entry">
