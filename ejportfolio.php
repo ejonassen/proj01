@@ -38,7 +38,7 @@
             <br/>
             <div class="entry">
                 <div class="projname">Project Four</div>
-                <div><a class="links" href="http://www.google.com">Link</a> | <a class="links" href="http://www.google.com">Code(Github)</a></div>
+                <div><a class="links" href="http://www.taskmanager.ericwebapps.me">Link</a> | <a class="links" href="https://github.com/ejonassen/taskmanager">Code(Github)</a></div>
             </div>
         </div>
     </body>
